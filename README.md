@@ -1,6 +1,5 @@
 # SCOTT PRO ⚡
 
-# @SCOTTSSH
 
 *PROJETO EM BETA🍷🗿
 ```
